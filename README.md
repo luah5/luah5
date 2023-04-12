@@ -9,4 +9,6 @@
 
 ### Here are my github stats:
 
-![](https://github-readme-stats.vercel.app/api?username=luah5)
+![](https://github-readme-stats.vercel.app/api?username=luah5&show_icons=true)
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=luah5)](https://github.com/luah5/github-readme-stats)
